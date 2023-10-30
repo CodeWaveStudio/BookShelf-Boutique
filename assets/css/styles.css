@@ -244,7 +244,7 @@ transition: box-shadow .4s,background-color .4s;
         display: flex;
         justify-content: space-between;
         margin: 0 20px;
-        column-gap: 2.5rem;
+        column-gap: .5rem;
     }
     .nav__link{
         display: flex;
@@ -459,6 +459,7 @@ transition: box-shadow .4s,background-color .4s;
   }
   .home__description{
     margin-top: .8rem;
+    
     font-size: 1rem;
     margin-bottom: 2rem;
   }
@@ -944,7 +945,9 @@ scrollup:hover{
     }
 
 .ham__content {
+
     position: relative;
+    margin-bottom: .6rem;
     top: 0%;
     left: 0%;
    
@@ -1001,7 +1004,7 @@ scrollup:hover{
 }
 .home__description{
     display: grid;
-    width: 70%;
+    width: 50%;
     justify-self: center;
     font-size: 1rem;
 }
