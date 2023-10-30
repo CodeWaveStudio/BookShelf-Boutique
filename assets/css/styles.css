@@ -429,7 +429,7 @@ transition: box-shadow .4s,background-color .4s;
 
 .home::before {
     content: "";
-    background-image: url('/BookShelf-Boutique/assets/image/Logo.png');
+    background-image: url('/BookShelf-Boutique/assets/image/background.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -917,7 +917,7 @@ scrollup:hover{
     
     .home::before {
         content: "";
-        background-image: url('/BookShelf-Boutique/assets/image/Logo.png');
+        background-image: url('/BookShelf-Boutique/assets/image/background.png');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -1023,7 +1023,7 @@ scrollup:hover{
     
     .home::before {
         content: "";
-        background-image: url('/BookShelf-Boutique/assets/image/Logo.png');
+        background-image: url('/BookShelf-Boutique/assets/image/background.png');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -1316,7 +1316,7 @@ scrollup:hover{
     
     .home::before {
         content: "";
-        background-image: url('/BookShelf-Boutique/assets/image/Logo.png');
+        background-image: url('/BookShelf-Boutique/assets/image/background.png');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -1542,7 +1542,7 @@ column-gap: 4rem;
     
     .home::before {
         content: "";
-        background-image: url('/BookShelf-Boutique/assets/image/Logo.png');
+        background-image: url('/BookShelf-Boutique/assets/image/background.png');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
